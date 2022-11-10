@@ -1,0 +1,75 @@
+button {
+  border-color: black;
+  background-color: green;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  font-size: 200%;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-dick {
+  background-color: white;
+  font-size: 0;
+  width: 19px;
+  height: 19px;
+  margin-left: 11px;
+  border-radius: 50%;
+}
+
+.black-dick {
+  background-color: black;
+  font-size: 0;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  border-radius: 50%;
+}
+
+.borad {
+  margin: auto;
+}
+
+.title {
+  text-align: center;
+}
+.title1 {
+  margin-left: 10px;
+  width: 70px;
+}
+.passbutton {
+  background-color: whitesmoke;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 30%;
+  font-size: 100%;
+  margin-left: 40px;
+}
+
+.resetbutton {
+  background-color: whitesmoke;
+  padding: 0;
+  width: 44px;
+  height: 30px;
+  border-radius: 15%;
+  font-size: 100%;
+  display: block;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.playertext {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  background-color: rgb(257, 257, 257);
+}
