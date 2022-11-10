@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Othello/static/css/main.3529090c.css",
-    "main.js": "/Othello/static/js/main.9453e11d.js",
+    "main.js": "/Othello/static/js/main.3752fa05.js",
     "index.html": "/Othello/index.html",
     "main.3529090c.css.map": "/Othello/static/css/main.3529090c.css.map",
-    "main.9453e11d.js.map": "/Othello/static/js/main.9453e11d.js.map"
+    "main.3752fa05.js.map": "/Othello/static/js/main.3752fa05.js.map"
   },
   "entrypoints": [
     "static/css/main.3529090c.css",
-    "static/js/main.9453e11d.js"
+    "static/js/main.3752fa05.js"
   ]
 }
